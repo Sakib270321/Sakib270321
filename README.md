@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hello, World! 👋  
+I'm a thinker and critic exploring Religion, Politics, Literature, Philosophy, and History.  
 
+🌟 **About Me:**  
+- 🎓 Master’s in Political Science from Bangladesh.  
+- 💻 Passionate about meaningful research and intellectual growth.  
+
+🌱 Currently: Open to collaborations and sharing insights on social issues.
 <!--
 **Sakib270321/Sakib270321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
