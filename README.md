@@ -27,5 +27,4 @@ Coding projects, documentation, and other technical work uploaded on GitHub.
 Feel free to explore the files and reach out to me if you have any questions or would like to collaborate on any project. You can also contribute to this repository by providing feedback, suggestions, or improvements on any of the projects.
 
 ## Contact
-For more information, you can reach me via email or connect with me on LinkedIn.
-LinkedIn : https://www.linkedin.com/in/md-sakibul-islam-6958a1348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+For more information, you can reach me via email or connect with me on LinkedIn: https://www.linkedin.com/in/md-sakibul-islam-6958a1348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
